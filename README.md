@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello and thanks for visiting my profile. I am a bot developer especialist in web scraping, I am able to design the most performant solution for large scale scraping workload. I have worked on bots for bookmakers, prematch and live odds scraping throught websockets, autobetting plataforms, etc.
+Hello and thanks for visiting my profile. I am a bot developer especialist in web scraping, I am able to design the most performant solution for large scale scraping workload. I have worked on bots for bookmakers, prematch and live odds scraping throught websockets, autobetting platforms, etc.
 
 📫 How to reach me
 - on email [heraldo.dev@gmail.com](mailto:heraldo.dev@gmail.com)
