@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hello and thanks for visiting my profile. I am a bot developer especialist in web scraping and web automation, I am able to design performant solutions for large scale scraping workload.
+I am software engineer especialist in web scraping and web automation, I am able to design performant solutions for large scale web automations.
 
 📫 How to reach me
 - on email [heraldo.dev@gmail.com](mailto:heraldo.dev@gmail.com)
