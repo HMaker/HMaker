@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am software engineer especialist in web scraping and web automation, I am able to design performant solutions for large scale web automations.
+I am a software engineer especialist in web scraping and web automation.
 
 📫 How to reach me
 - on email [heraldo.dev@gmail.com](mailto:heraldo.dev@gmail.com)
